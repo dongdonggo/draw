@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2020-09-03T03:13:29.118Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" version="13.6.6" etag="JnP4jYOro3JvJgNMaLzL" type="github"><diagram id="WopFAMGuSnNQFIfdHbgk">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-03T07:01:05.953Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="0LjqiEV5P1Dt6HfdUNO3" version="13.6.6" type="github">
+  <diagram id="WopFAMGuSnNQFIfdHbgk" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OTf7hg31ilQL6F8pJqgv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTf7hg31ilQL6F8pJqgv-1" target="OTf7hg31ilQL6F8pJqgv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTf7hg31ilQL6F8pJqgv-5" value="生成：打卡营" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OTf7hg31ilQL6F8pJqgv-3">
+          <mxGeometry x="0.3333" y="-53" relative="1" as="geometry">
+            <mxPoint x="58" y="53" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OTf7hg31ilQL6F8pJqgv-1" value="pc编辑器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OTf7hg31ilQL6F8pJqgv-2" value="数据库" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OTf7hg31ilQL6F8pJqgv-4" value="创建卡包，并发布审核&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OTf7hg31ilQL6F8pJqgv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTf7hg31ilQL6F8pJqgv-6" target="OTf7hg31ilQL6F8pJqgv-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="395" y="380" />
+              <mxPoint x="395" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OTf7hg31ilQL6F8pJqgv-6" value="用户app&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OTf7hg31ilQL6F8pJqgv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTf7hg31ilQL6F8pJqgv-8" target="OTf7hg31ilQL6F8pJqgv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTf7hg31ilQL6F8pJqgv-8" value="设置开始打卡时间" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OTf7hg31ilQL6F8pJqgv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTf7hg31ilQL6F8pJqgv-11" target="OTf7hg31ilQL6F8pJqgv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTf7hg31ilQL6F8pJqgv-11" value="加入打卡营&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OTf7hg31ilQL6F8pJqgv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTf7hg31ilQL6F8pJqgv-13" target="OTf7hg31ilQL6F8pJqgv-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTf7hg31ilQL6F8pJqgv-16" value="加入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OTf7hg31ilQL6F8pJqgv-15">
+          <mxGeometry x="0.4027" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OTf7hg31ilQL6F8pJqgv-13" value="用户购买成功" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="625" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OTf7hg31ilQL6F8pJqgv-14" value="打卡营&lt;br&gt;&lt;br&gt;camp_members" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="600" width="130" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
