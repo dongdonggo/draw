@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T03:05:52.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="kRL5ESB_fkFZwVO_FaFl" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-15T03:06:55.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="kSclUmX_kBvQWJQl3_Xx" version="14.2.2" type="github">
   <diagram id="dF_qkSadvA-WX4MBEM9q" name="Page-1">
-    <mxGraphModel dx="1168" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1401" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,11 +150,23 @@
         <mxCell id="G4-1y-KEtFYx3KAaQVzG-88" value="取缓存数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="770" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="G4-1y-KEtFYx3KAaQVzG-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G4-1y-KEtFYx3KAaQVzG-90" target="G4-1y-KEtFYx3KAaQVzG-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="645" />
+              <mxPoint x="1020" y="530" />
+              <mxPoint x="259" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="G4-1y-KEtFYx3KAaQVzG-90" value="&lt;span&gt;加载已生成的数据&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="600" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G4-1y-KEtFYx3KAaQVzG-91" value="还有" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="710" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G4-1y-KEtFYx3KAaQVzG-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="G4-1y-KEtFYx3KAaQVzG-93" target="G4-1y-KEtFYx3KAaQVzG-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G4-1y-KEtFYx3KAaQVzG-93" value="剩余生成的卡牌是否已到警戒值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="770" width="180" height="20" as="geometry" />
